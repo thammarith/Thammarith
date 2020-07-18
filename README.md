@@ -1,3 +1,3 @@
 # Hi! It's me, Thammarith
 
-Yes, it's Thammarith.
+I'm a full-stack engineer. What do other people put here?

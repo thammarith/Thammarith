@@ -1,3 +1,3 @@
 # Hi! It's me, Thammarith
 
-I'm a full-stack engineer. What do other people put here?
+I write code and have existential crisis, mostly at the same time.

@@ -6,11 +6,20 @@ I'm a full-stack developer currently working at Agoda.
 
 ## Skills
 
-- **Languages:** TypeScript, JavaScript, HTML, CSS, SCSS, PHP, C#, SQL
-- **Client-side:** React, Vue, Gatsby
+### Software Engineering
+
+- **Languages:**
+  - **Web-related:** TypeScript, JavaScript, HTML, SCSS, PHP, SQL
+  - **Native programming:** C#, C/C++, Python, Java, Scala
+- **Client-side:** React, Vue, Gatsby, Svelte, Jest
 - **Sever-side:** Node.js, Express, .NET Core
-- **Others:** Hadoop, Spark, Hive
-- **Non-programming:** UX/UI Design, Writing, Presentation, Management, Marketing
+- **Cloud:** AWS, Microsoft Azure
+- **Big Data:** Hadoop, Spark, Hive
+
+### Others
+
+- **Techinical:** UX/UI Design
+- **Non-techinical:** Writing, Presentation, Management, Marketing
 
 ## Experience
 

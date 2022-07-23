@@ -4,6 +4,8 @@ A developer who writes code and has existential crisis, often concurrently.
 
 I'm a full-stack developer currently working at Agoda.
 
+<!--
+
 ## Skills
 
 ### Software Engineering
@@ -32,3 +34,5 @@ I joined Agoda in March 2020 right at the beginning of the pandemic. I have been
 ### ViaBus
 
 ### TEDxMahidolU
+
+-->

@@ -2,7 +2,7 @@
 
 A developer who writes code and has existential crisis, often concurrently.
 
-I'm a full-stack developer currently working at Agoda.
+I'm a senior software engineer currently working at Agoda.
 
 <!--
 
